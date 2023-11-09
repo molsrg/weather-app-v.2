@@ -1,0 +1,12 @@
+@import './general.css';
+@import './reset.css';
+
+
+
+
+@import './components/navigation.css';
+@import './components/weather.css';
+@import './components/forecast.css';
+@import './components/footer.css';
+
+@import './media.css'
